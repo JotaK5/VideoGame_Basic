@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpaceJK</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="content_description_play_button">Play Button</string>
+    <string name="pause">…</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="home">Home</string>
+    <string name="boton_disparar">boton_disparar</string>
+</resources>
